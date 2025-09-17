@@ -2,7 +2,7 @@
   "name": "react-basics",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://akhilanandateja.github.io/react-calculator",
+  "homepage": "https://Akhilanandateja.github.io/react-calculator",
   "dependencies": {
     "mathjs": "^14.7.0",
     "react": "^18.3.1",
